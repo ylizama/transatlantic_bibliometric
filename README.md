@@ -21,6 +21,9 @@ An exploratory study of Transatlantic Studies' publications network until 2017.
 
 The dataset contains  8277 entries (books,book chapters,articles,and conference proceedings) resulting from the search:‘transatlantic OR trans-atlantic OR transatlántico OR trans-atlántico’ in Web of Sciences, Scopus and Google Books. 
 
+## Research output
+Lizama-Mue, Yadira and Daniel Varona. “A Bibliometric Approach to the Structure and Dynamic of the Transatlantic Studies Network.” Arts and Humanities’ Research Day, 2018 http://www.yadiralizamamue.ca/wp-content/uploads/2020/06/LizamaVarona.pdf
+
 ## Tools
 
 * [Python](https://www.python.org) 
