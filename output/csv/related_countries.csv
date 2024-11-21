@@ -1,0 +1,1074 @@
+id	p1	p2	w
+0	United States	Germany	160
+1	United States	France	130
+2	France	Germany	106
+3	United States	Iraq	94
+4	Russia	United States	78
+5	United States	United Kingdom	76
+6	United States	Canada	66
+7	United States	China	62
+8	United States	Afghanistan	50
+9	Mexico	Spain	46
+10	United States	Italy	44
+11	Russia	Germany	42
+12	United States	India	40
+13	United States	Spain	38
+14	Afghanistan	Iraq	38
+15	France	Iraq	36
+16	Brazil	India	36
+17	France	Spain	32
+18	Russia	Ukraine	30
+19	Germany	Iraq	30
+20	Italy	Germany	30
+21	Russia	China	30
+22	Spain	Cuba	28
+23	Poland	Germany	26
+24	United States	Cuba	26
+25	France	Italy	26
+26	China	India	26
+27	United States	Ireland	26
+28	Russia	Iraq	26
+29	Niger	Nigeria	26
+30	France	United Kingdom	24
+31	United States	Iran	24
+32	France	Canada	24
+33	China	Germany	22
+34	United States	Ukraine	22
+35	Australia	United States	22
+36	China	Brazil	22
+37	United States	Japan	22
+38	Germany	Canada	20
+39	United States	Brazil	20
+40	Portugal	Spain	20
+41	United States	Israel	20
+42	Russia	India	20
+43	Russia	France	20
+44	Poland	France	20
+45	Spain	Germany	18
+46	France	Netherlands	18
+47	Russia	Afghanistan	18
+48	China	Japan	18
+49	Peru	Spain	18
+50	United States	New Zealand	16
+51	Russia	Brazil	16
+52	United States	South Africa	16
+53	Canada	Japan	16
+54	Portugal	Brazil	16
+55	Poland	United States	16
+56	Australia	New Zealand	16
+57	United States	Georgia	14
+58	United States	Peru	14
+59	Australia	Canada	14
+60	Canada	India	14
+61	Brazil	Cuba	14
+62	France	China	14
+63	Poland	Russia	14
+64	Mexico	Brazil	14
+65	Switzerland	Germany	14
+66	Italy	Spain	14
+67	Spain	India	14
+68	Sweden	Denmark	14
+69	Jamaica	India	14
+70	Afghanistan	Germany	14
+71	France	Mexico	12
+72	Ukraine	Germany	12
+73	South Africa	Brazil	12
+74	Ireland	Canada	12
+75	United Kingdom	Germany	12
+76	Russia	Hungary	12
+77	Italy	United Kingdom	12
+78	France	India	12
+79	Poland	Italy	12
+80	France	Afghanistan	12
+81	Haiti	Jamaica	12
+82	Sweden	Italy	12
+83	Japan	India	10
+84	Sweden	Norway	10
+85	Uruguay	Brazil	10
+86	United States	Egypt	10
+87	Poland	Hungary	10
+88	Austria	Italy	10
+89	Russia	Cuba	10
+90	Hungary	Italy	10
+91	Poland	Afghanistan	10
+92	United Kingdom	Canada	10
+93	France	Brazil	10
+94	Norway	Denmark	10
+95	Barbados	India	10
+96	Dominica	Dominican Republic	10
+97	Russia	Italy	10
+98	Brazil	Canada	10
+99	Poland	Netherlands	10
+100	United States	Mexico	10
+101	Ireland	Italy	10
+102	Russia	Israel	10
+103	United States	Turkey	10
+104	Italy	Denmark	10
+105	Italy	Netherlands	10
+106	Netherlands	Spain	10
+107	Israel	Iraq	8
+108	Austria	United States	8
+109	Portugal	Italy	8
+110	New Zealand	Japan	8
+111	Namibia	Brazil	8
+112	France	Belgium	8
+113	Germany	Iran	8
+114	Poland	Canada	8
+115	Netherlands	Germany	8
+116	France	Israel	8
+117	Poland	Iraq	8
+118	Sierra Leone	Nigeria	8
+119	Guadeloupe	Mexico	8
+120	Chile	Mexico	8
+121	Iraq	Iran	8
+122	South Africa	India	8
+123	Haiti	United States	8
+124	Argentina	Canada	8
+125	Austria	Hungary	8
+126	Jamaica	Barbados	8
+127	Niger	Sierra Leone	8
+128	Pakistan	Afghanistan	8
+129	Russia	Georgia	8
+130	Cuba	India	8
+131	China	Canada	8
+132	Portugal	India	8
+133	Afghanistan	Iran	8
+134	United States	Belgium	8
+135	Haiti	France	8
+136	Brazil	Greece	8
+137	United States	Argentina	8
+138	United States	Pakistan	8
+139	Mexico	Canada	8
+140	Austria	Russia	8
+141	China	Iraq	8
+142	South Africa	Canada	8
+143	Poland	Czech Republic	8
+144	France	Switzerland	8
+145	Australia	South Africa	8
+146	Angola	India	6
+147	Chile	United Kingdom	6
+148	Austria	Denmark	6
+149	Brazil	Japan	6
+150	Mexico	Germany	6
+151	New Zealand	Canada	6
+152	Italy	Canada	6
+153	United States	Colombia	6
+154	Australia	Philippines	6
+155	Brazil	Sierra Leone	6
+156	South Africa	China	6
+157	Chile	Spain	6
+158	Australia	Japan	6
+159	United States	Jamaica	6
+160	Poland	Switzerland	6
+161	Singapore	Canada	6
+162	France	Iran	6
+163	Hungary	Denmark	6
+164	United States	Netherlands	6
+165	Portugal	Denmark	6
+166	United Kingdom	Trinidad and Tobago	6
+167	Russia	Denmark	6
+168	Australia	Israel	6
+169	China	Ukraine	6
+170	Norway	Italy	6
+171	South Korea	Canada	6
+172	Peru	Mexico	6
+173	Philippines	South Africa	6
+174	Russia	Norway	6
+175	Macedonia	Germany	6
+176	Belgium	Switzerland	6
+177	Iceland	Denmark	6
+178	Guadeloupe	Germany	6
+179	Afghanistan	Ukraine	6
+180	Portugal	Germany	6
+181	Australia	Argentina	6
+182	Ghana	Guinea	6
+183	Greece	Sierra Leone	6
+184	Cuba	Iraq	6
+185	Egypt	Iran	6
+186	Belgium	Germany	6
+187	Iraq	Denmark	6
+188	Italy	Switzerland	6
+189	Taiwan, Province of China	China	6
+190	Portugal	Argentina	6
+191	Poland	Belgium	6
+192	Uruguay	Canada	6
+193	Ireland	India	6
+194	Haiti	Cuba	6
+195	United States	Greece	6
+196	Guinea	Jamaica	6
+197	Sweden	Russia	6
+198	Guinea	Angola	6
+199	Germany	Denmark	6
+200	Sweden	Poland	6
+201	Russia	Japan	6
+202	Austria	Norway	6
+203	Israel	Canada	6
+204	United States	North Korea	6
+205	Sweden	Austria	6
+206	Poland	Ukraine	6
+207	France	Ireland	6
+208	Sudan	Somalia	6
+209	United States	Finland	6
+210	Turkey	Ukraine	6
+211	Russia	South Africa	6
+212	United Kingdom	Spain	6
+213	Sweden	Hungary	6
+214	Russia	Canada	6
+215	Hungary	Norway	6
+216	United States	Chile	6
+217	United States	Hungary	6
+218	Australia	Mexico	6
+219	Portugal	France	6
+220	Sweden	Finland	6
+221	Brazil	Angola	6
+222	Russia	Turkey	6
+223	Singapore	South Korea	6
+224	Saudi Arabia	United States	6
+225	Ireland	Montserrat	6
+226	Mexico	India	6
+227	Cuba	Germany	6
+228	Germany	India	6
+229	Philippines	United States	6
+230	France	Mali	4
+231	United States	Jersey	4
+232	Ireland	Jamaica	4
+233	Chile	Brazil	4
+234	Portugal	Cuba	4
+235	Uruguay	Japan	4
+236	United States	Congo	4
+237	Belgium	Spain	4
+238	Uruguay	South Africa	4
+239	Australia	France	4
+240	Argentina	Brazil	4
+241	United States	Bahrain	4
+242	Egypt	Israel	4
+243	South Africa	Israel	4
+244	China	Cuba	4
+245	Israel	Iran	4
+246	Russia	Czech Republic	4
+247	Uruguay	India	4
+248	Belgium	Japan	4
+249	Albania	Macedonia	4
+250	Saudi Arabia	Egypt	4
+251	United States	Mali	4
+252	Switzerland	Angola	4
+253	Afghanistan	Denmark	4
+254	Italy	Japan	4
+255	Uruguay	Venezuela, Bolivarian Republic of	4
+256	Egypt	Ethiopia	4
+257	Egypt	Bahrain	4
+258	United States	Yemen	4
+259	Philippines	Spain	4
+260	France	Argentina	4
+261	Guatemala	Mexico	4
+262	Austria	Germany	4
+263	France	Luxembourg	4
+264	Senegal	Sierra Leone	4
+265	India	Georgia	4
+266	Poland	Bulgaria	4
+267	India	Denmark	4
+268	Albania	United States	4
+269	Mali	Canada	4
+270	Jamaica	Chad	4
+271	South Africa	Argentina	4
+272	Colombia	Peru	4
+273	Uruguay	Argentina	4
+274	Turkey	Iraq	4
+275	Bermuda	India	4
+276	Yemen	India	4
+277	Peru	Bolivia	4
+278	Chile	Cuba	4
+279	Saudi Arabia	Iran	4
+280	Estonia	Latvia	4
+281	Haiti	Brazil	4
+282	Germany	Georgia	4
+283	Estonia	Lithuania	4
+284	Australia	Singapore	4
+285	United States	Czech Republic	4
+286	Hungary	Czech Republic	4
+287	Ghana	Nigeria	4
+288	Ghana	Jamaica	4
+289	United States	Portugal	4
+290	Poland	Spain	4
+291	Peru	Argentina	4
+292	Czech Republic	Macedonia	4
+293	Croatia	Hungary	4
+294	Ghana	Brazil	4
+295	Sweden	Ireland	4
+296	Philippines	Israel	4
+297	Poland	Lithuania	4
+298	China	Iran	4
+299	Greece	United Kingdom	4
+300	Australia	Chile	4
+301	Philippines	Mexico	4
+302	Belgium	Canada	4
+303	Peru	India	4
+304	Grenada	Spain	4
+305	United States	Serbia	4
+306	Ecuador	Bolivia	4
+307	Russia	Iran	4
+308	New Zealand	China	4
+309	Puerto Rico	Cuba	4
+310	Niger	Jamaica	4
+311	Australia	India	4
+312	Sweden	Canada	4
+313	China	North Korea	4
+314	Namibia	South Africa	4
+315	Argentina	Israel	4
+316	Haiti	Georgia	4
+317	Poland	Austria	4
+318	Russia	Macedonia	4
+319	Haiti	Niger	4
+320	Argentina	Italy	4
+321	Macedonia	Ukraine	4
+322	Antarctica	Canada	4
+323	Poland	Croatia	4
+324	Switzerland	Spain	4
+325	Mozambique	India	4
+326	Brazil	Spain	4
+327	Taiwan, Province of China	Germany	4
+328	Saudi Arabia	Bahrain	4
+329	Uganda	Brazil	4
+330	Lithuania	Latvia	4
+331	Ukraine	Georgia	4
+332	Bolivia	Argentina	4
+333	Norway	Finland	4
+334	South Africa	Japan	4
+335	United States	Singapore	4
+336	Ecuador	Argentina	4
+337	Croatia	Macedonia	4
+338	Sweden	Germany	4
+339	Netherlands	Belgium	4
+340	United Kingdom	Mali	4
+341	Philippines	Canada	4
+342	Argentina	Cuba	4
+343	Greece	Spain	4
+344	Malaysia	Singapore	4
+345	France	Turkey	4
+346	Australia	China	4
+347	Croatia	Czech Republic	4
+348	Mexico	Singapore	4
+349	Guatemala	Spain	4
+350	United States	Barbados	4
+351	Taiwan, Province of China	France	4
+352	Madagascar	India	4
+353	Afghanistan	Macedonia	4
+354	Bahrain	Iran	4
+355	New Zealand	India	4
+356	Colombia	Spain	4
+357	Mozambique	Brazil	4
+358	Afghanistan	Georgia	4
+359	France	Cuba	4
+360	Italy	Bulgaria	4
+361	France	Dominica	4
+362	France	Jersey	4
+363	Peru	Chile	4
+364	Haiti	Dominican Republic	4
+365	Israel	Switzerland	4
+366	Turkey	Germany	4
+367	Brazil	Germany	4
+368	Ghana	Niger	4
+369	Spain	Denmark	4
+370	United States	Tunisia	4
+371	Malaysia	Mexico	4
+372	Colombia	Canada	4
+373	Iraq	India	4
+374	Italy	Greece	4
+375	Turkey	Cyprus	4
+376	Australia	Panama	4
+377	Poland	Macedonia	4
+378	France	Japan	4
+379	North Korea	Iran	4
+380	Guinea	India	4
+381	Russia	Uruguay	4
+382	Finland	Denmark	4
+383	Poland	Turkey	4
+384	Poland	Ireland	4
+385	Uruguay	China	4
+386	Netherlands	Canada	4
+387	Jamaica	Nigeria	4
+388	Jamaica	Cuba	4
+389	Portugal	Angola	4
+390	Switzerland	Canada	4
+391	Sweden	Netherlands	4
+392	Haiti	India	4
+393	Germany	Japan	4
+394	Haiti	Nigeria	4
+395	Haiti	Dominica	4
+396	Ireland	Netherlands	4
+397	Colombia	Panama	4
+398	Australia	United Kingdom	4
+399	Cuba	Angola	4
+400	Argentina	Spain	4
+401	Australia	Colombia	4
+402	Poland	Georgia	4
+403	Ireland	United Kingdom	4
+404	Philippines	Argentina	4
+405	Afghanistan	Jersey	4
+406	Hungary	Bulgaria	4
+407	United States	Switzerland	4
+408	New Zealand	United Kingdom	4
+409	France	Finland	4
+410	Turkey	Canada	4
+411	United States	Macedonia	4
+412	Turkey	Japan	4
+413	Chile	Singapore	4
+414	Philippines	China	4
+415	Netherlands	Switzerland	4
+416	United States	Ethiopia	4
+417	United States	Panama	4
+418	Serbia	Iraq	4
+419	Peru	Panama	4
+420	France	Bolivia	4
+421	Bulgaria	Germany	4
+422	Sudan	Comoros	2
+423	United States	Tanzania, United Republic of	2
+424	France	Macedonia	2
+425	China	Turkey	2
+426	Croatia	Romania	2
+427	Brazil	Dominican Republic	2
+428	Hungary	Cyprus	2
+429	Czech Republic	Ukraine	2
+430	Singapore	Germany	2
+431	Yemen	Iraq	2
+432	French Polynesia	Panama	2
+433	Bulgaria	Finland	2
+434	Dominica	Nigeria	2
+435	Estonia	Croatia	2
+436	Niger	Tanzania, United Republic of	2
+437	Macedonia	Cyprus	2
+438	Egypt	Yemen	2
+439	Poland	Estonia	2
+440	Australia	Bolivia	2
+441	Malaysia	France	2
+442	Mongolia	India	2
+443	Haiti	Japan	2
+444	Afghanistan	United Kingdom	2
+445	Italy	Iraq	2
+446	United States	Morocco	2
+447	Netherlands	India	2
+448	Romania	Cyprus	2
+449	Niger	Cuba	2
+450	Russia	Serbia	2
+451	Egypt	India	2
+452	United States	South Korea	2
+453	Slovenia	Croatia	2
+454	United States	French Guiana	2
+455	Slovakia	Malta	2
+456	Mexico	Argentina	2
+457	Poland	Cuba	2
+458	Portugal	Peru	2
+459	Croatia	Canada	2
+460	Japan	Sri Lanka	2
+461	Mozambique	Somalia	2
+462	Israel	South Korea	2
+463	United States	Madagascar	2
+464	South Africa	Mozambique	2
+465	China	Norway	2
+466	Chile	Argentina	2
+467	Guadeloupe	Barbados	2
+468	Slovakia	Hungary	2
+469	Taiwan, Province of China	Iraq	2
+470	Tunisia	Morocco	2
+471	Switzerland	Japan	2
+472	Czech Republic	Latvia	2
+473	United States	Sudan	2
+474	Jamaica	Martinique	2
+475	Niger	Kenya	2
+476	Croatia	Bulgaria	2
+477	Bahamas	Canada	2
+478	Congo	Georgia	2
+479	Ghana	Kenya	2
+480	Haiti	Portugal	2
+481	New Zealand	Dominica	2
+482	Turkey	Lebanon	2
+483	Iran	Armenia	2
+484	Estonia	Macedonia	2
+485	Namibia	Botswana	2
+486	Albania	Germany	2
+487	Chile	Panama	2
+488	Turkey	Lithuania	2
+489	Czech Republic	Malta	2
+490	Ecuador	France	2
+491	Iraq	Armenia	2
+492	United Kingdom	Finland	2
+493	Czech Republic	Cyprus	2
+494	Libyan Arab Jamahiriya	China	2
+495	Algeria	Haiti	2
+496	Egypt	Tunisia	2
+497	Egypt	Comoros	2
+498	Ecuador	Brazil	2
+499	Tanzania, United Republic of	Brazil	2
+500	Ecuador	Portugal	2
+501	Dominica	Brazil	2
+502	Iceland	Finland	2
+503	Canada	Sri Lanka	2
+504	Slovenia	Slovakia	2
+505	Slovakia	Latvia	2
+506	Sweden	United States	2
+507	Comoros	Somalia	2
+508	New Zealand	Singapore	2
+509	Togo	Nigeria	2
+510	Yemen	Comoros	2
+511	Guatemala	France	2
+512	Ecuador	Peru	2
+513	Australia	Turkey	2
+514	Mexico	Japan	2
+515	Ghana	Benin	2
+516	Slovenia	Czech Republic	2
+517	Croatia	Afghanistan	2
+518	Mozambique	Madagascar	2
+519	Croatia	Serbia	2
+520	Saudi Arabia	Tunisia	2
+521	Estonia	Georgia	2
+522	New Zealand	Brazil	2
+523	Czech Republic	Iraq	2
+524	Egypt	Brazil	2
+525	Haiti	Tanzania, United Republic of	2
+526	Greece	Iraq	2
+527	Guatemala	Brazil	2
+528	China	Hong Kong	2
+529	Brazil	Switzerland	2
+530	Estonia	Czech Republic	2
+531	Israel	Ukraine	2
+532	Colombia	Chile	2
+533	Yemen	Somalia	2
+534	Kenya	Jamaica	2
+535	Jamaica	Brazil	2
+536	Cyprus	Latvia	2
+537	Mexico	Panama	2
+538	Australia	Ecuador	2
+539	South Africa	Angola	2
+540	Bulgaria	Cyprus	2
+541	New Zealand	Peru	2
+542	Argentina	Japan	2
+543	Albania	Poland	2
+544	Lithuania	Germany	2
+545	Niger	Brazil	2
+546	South Africa	Ireland	2
+547	Sudan	Ethiopia	2
+548	Turkey	India	2
+549	United States	Brunei Darussalam	2
+550	Romania	Czech Republic	2
+551	Czech Republic	Georgia	2
+552	United States	Somalia	2
+553	South Africa	Solomon Islands	2
+554	Croatia	Latvia	2
+555	Algeria	Dominican Republic	2
+556	Slovakia	Bulgaria	2
+557	Colombia	Bolivia	2
+558	Slovakia	Romania	2
+559	France	Lebanon	2
+560	United States	Mozambique	2
+561	Albania	Afghanistan	2
+562	Greece	Germany	2
+563	Romania	Bulgaria	2
+564	Puerto Rico	Germany	2
+565	Norway	India	2
+566	Peru	Japan	2
+567	Uruguay	Italy	2
+568	Sweden	Spain	2
+569	Mozambique	Sudan	2
+570	Turkey	Bulgaria	2
+571	Cuba	Nigeria	2
+572	Tanzania, United Republic of	Nigeria	2
+573	Niger	Dominican Republic	2
+574	United Kingdom	India	2
+575	Philippines	India	2
+576	Bulgaria	Lithuania	2
+577	Iceland	Norway	2
+578	United States	Liberia	2
+579	Yemen	Sudan	2
+580	United States	Mongolia	2
+581	Croatia	Turkey	2
+582	Indonesia	Georgia	2
+583	China	Mongolia	2
+584	Estonia	Cyprus	2
+585	Panama	Japan	2
+586	United States	Bulgaria	2
+587	Hungary	Germany	2
+588	Slovakia	Lithuania	2
+589	Slovakia	Cyprus	2
+590	Montenegro	Ukraine	2
+591	Colombia	Japan	2
+592	Ecuador	Haiti	2
+593	Kazakhstan	United States	2
+594	United States	Chad	2
+595	Uganda	Nigeria	2
+596	Dominica	Uganda	2
+597	Brazil	Comoros	2
+598	Bulgaria	Switzerland	2
+599	Grenada	India	2
+600	Albania	Georgia	2
+601	Guinea	Georgia	2
+602	Ghana	France	2
+603	Yemen	Brazil	2
+604	Poland	Slovakia	2
+605	Bermuda	United States	2
+606	France	Namibia	2
+607	Bulgaria	Macedonia	2
+608	Jamaica	Dominican Republic	2
+609	Austria	Switzerland	2
+610	Mexico	Brunei Darussalam	2
+611	Ecuador	Colombia	2
+612	Romania	Malta	2
+613	Canada	Brunei Darussalam	2
+614	Austria	Turkey	2
+615	Ecuador	United States	2
+616	Belgium	Luxembourg	2
+617	Sweden	Portugal	2
+618	Namibia	Angola	2
+619	Senegal	Brazil	2
+620	Malta	Macedonia	2
+621	Hungary	Turkey	2
+622	Dominica	Mexico	2
+623	Czech Republic	Bulgaria	2
+624	New Zealand	Chile	2
+625	United States	Cameroon	2
+626	Congo	Cuba	2
+627	Bolivia	Gambia	2
+628	Malaysia	Canada	2
+629	Gibraltar	Argentina	2
+630	New Zealand	South Korea	2
+631	Guatemala	Peru	2
+632	Oman	Somalia	2
+633	Tanzania, United Republic of	Dominican Republic	2
+634	Austria	Belgium	2
+635	Italy	Belgium	2
+636	France	South Korea	2
+637	Iceland	Canada	2
+638	Malaysia	Germany	2
+639	Benin	Nigeria	2
+640	Iraq	Nigeria	2
+641	Croatia	Germany	2
+642	Estonia	Hungary	2
+643	Philippines	Cuba	2
+644	Peru	Canada	2
+645	Cameroon	Nigeria	2
+646	Slovenia	Lithuania	2
+647	France	Denmark	2
+648	Guinea	Panama	2
+649	Afghanistan	Czech Republic	2
+650	Singapore	Brunei Darussalam	2
+651	Senegal	Gambia	2
+652	Malaysia	New Zealand	2
+653	Slovenia	Romania	2
+654	Spain	Angola	2
+655	Mexico	Greece	2
+656	Croatia	Malta	2
+657	Niger	United States	2
+658	Chile	Brunei Darussalam	2
+659	Ghana	Barbados	2
+660	Peru	Uruguay	2
+661	Brazil	Somalia	2
+662	Russia	Spain	2
+663	Czech Republic	Denmark	2
+664	Kenya	Nigeria	2
+665	Niger	Iraq	2
+666	United States	Nigeria	2
+667	Iraq	Mongolia	2
+668	Panama	Spain	2
+669	Czech Republic	Lithuania	2
+670	Niger	Dominica	2
+671	Colombia	New Zealand	2
+672	Egypt	Morocco	2
+673	Panama	South Korea	2
+674	South Korea	Brunei Darussalam	2
+675	Turkey	Macedonia	2
+676	Colombia	Brunei Darussalam	2
+677	Russia	Bulgaria	2
+678	Malaysia	Chile	2
+679	Bolivia	Spain	2
+680	United States	Comoros	2
+681	Bermuda	Ireland	2
+682	Iraq	Georgia	2
+683	New Zealand	Germany	2
+684	Uganda	Kenya	2
+685	Montenegro	Georgia	2
+686	Ghana	Togo	2
+687	Brazil	Venezuela, Bolivarian Republic of	2
+688	Congo	Angola	2
+689	Ukraine	Denmark	2
+690	Russia	Belgium	2
+691	Niger	Iran	2
+692	Afghanistan	Cuba	2
+693	Israel	United Kingdom	2
+694	Poland	Slovenia	2
+695	Iceland	Greenland	2
+696	Australia	Antarctica	2
+697	Canada	Morocco	2
+698	Malaysia	Australia	2
+699	Italy	Angola	2
+700	Oman	United States	2
+701	Malta	Latvia	2
+702	Bahamas	Jamaica	2
+703	Togo	Niger	2
+704	Poland	Cyprus	2
+705	Switzerland	Finland	2
+706	Turkey	Armenia	2
+707	Croatia	Italy	2
+708	Ghana	Haiti	2
+709	Hungary	Latvia	2
+710	Lebanon	Cyprus	2
+711	Israel	Morocco	2
+712	Italy	Macedonia	2
+713	Pakistan	India	2
+714	Australia	Russia	2
+715	New Zealand	Panama	2
+716	Colombia	Israel	2
+717	Turkey	Iran	2
+718	Italy	Turkey	2
+719	Brazil	Ethiopia	2
+720	Brazil	Hong Kong	2
+721	Tanzania, United Republic of	United Kingdom	2
+722	Albania	Russia	2
+723	Portugal	Bolivia	2
+724	Niger	Uganda	2
+725	Haiti	Pitcairn	2
+726	India	Somalia	2
+727	Malaysia	Colombia	2
+728	Panama	Brunei Darussalam	2
+729	Sweden	Ukraine	2
+730	Singapore	Panama	2
+731	Ireland	Germany	2
+732	Uganda	Jamaica	2
+733	Ghana	Dominican Republic	2
+734	Lithuania	Cyprus	2
+735	Chile	Italy	2
+736	Malta	Bulgaria	2
+737	Malaysia	United States	2
+738	Ethiopia	Comoros	2
+739	Mozambique	Venezuela, Bolivarian Republic of	2
+740	Israel	Brunei Darussalam	2
+741	Benin	Niger	2
+742	Bolivia	Cuba	2
+743	Angola	Iraq	2
+744	Ireland	Spain	2
+745	Iran	Morocco	2
+746	Tunisia	Israel	2
+747	Colombia	Mexico	2
+748	Cuba	Iran	2
+749	Bolivia	Mexico	2
+750	France	Czech Republic	2
+751	Kenya	Dominican Republic	2
+752	Tanzania, United Republic of	Uganda	2
+753	Uganda	Dominican Republic	2
+754	Haiti	Peru	2
+755	France	Cape Verde	2
+756	Hungary	Serbia	2
+757	United States	Hong Kong	2
+758	Portugal	Chile	2
+759	Barbados	Guyana	2
+760	North Korea	Germany	2
+761	France	Singapore	2
+762	Peru	Cuba	2
+763	Oman	Sudan	2
+764	Australia	Solomon Islands	2
+765	Egypt	Madagascar	2
+766	Chile	Canada	2
+767	Romania	Germany	2
+768	Malaysia	South Korea	2
+769	Niger	France	2
+770	United States	Bahamas	2
+771	Chile	Japan	2
+772	China	Spain	2
+773	Iran	Nigeria	2
+774	Bulgaria	United Kingdom	2
+775	Japan	Dominican Republic	2
+776	Brazil	Madagascar	2
+777	Portugal	Congo	2
+778	Haiti	Uganda	2
+779	Egypt	Italy	2
+780	Spain	Georgia	2
+781	Ecuador	Guatemala	2
+782	Italy	Finland	2
+783	Australia	Germany	2
+784	Hungary	Macedonia	2
+785	United States	Guadeloupe	2
+786	Sweden	France	2
+787	Oman	India	2
+788	Brazil	Morocco	2
+789	France	Greece	2
+790	United States	Croatia	2
+791	Slovenia	Macedonia	2
+792	Egypt	Somalia	2
+793	United States	Puerto Rico	2
+794	Poland	Japan	2
+795	Tunisia	Iraq	2
+796	Brazil	Sudan	2
+797	Oman	Brazil	2
+798	Slovenia	Estonia	2
+799	Peru	South Korea	2
+800	Guatemala	Chile	2
+801	United States	Armenia	2
+802	French Polynesia	Australia	2
+803	Haiti	Spain	2
+804	Kenya	Brazil	2
+805	Ireland	Greece	2
+806	France	Uganda	2
+807	Haiti	Argentina	2
+808	United States	Bosnia and Herzegovina	2
+809	Guatemala	Bolivia	2
+810	Brazil	Congo	2
+811	Madagascar	Ethiopia	2
+812	Peru	Singapore	2
+813	Sierra Leone	Finland	2
+814	France	Jamaica	2
+815	Afghanistan	Montenegro	2
+816	Australia	Spain	2
+817	Ghana	Uganda	2
+818	Poland	Portugal	2
+819	Slovenia	Turkey	2
+820	Mozambique	Ethiopia	2
+821	Guatemala	Argentina	2
+822	French Guiana	Barbados	2
+823	Sweden	Iceland	2
+824	France	Kenya	2
+825	Slovenia	Latvia	2
+826	Guinea	Brazil	2
+827	Mexico	Cuba	2
+828	Montenegro	Iraq	2
+829	Turkey	Switzerland	2
+830	Singapore	Japan	2
+831	Bolivia	Canada	2
+832	China	Switzerland	2
+833	Iceland	Spain	2
+834	Colombia	India	2
+835	Oman	Ethiopia	2
+836	Panama	Angola	2
+837	Ecuador	Chile	2
+838	New Zealand	Brunei Darussalam	2
+839	Panama	Cuba	2
+840	Malaysia	Brunei Darussalam	2
+841	Estonia	Bulgaria	2
+842	Algeria	Japan	2
+843	China	Somalia	2
+844	Puerto Rico	Spain	2
+845	Panama	India	2
+846	Turkey	Malta	2
+847	Austria	Japan	2
+848	Haiti	New Zealand	2
+849	Philippines	Russia	2
+850	Slovakia	Czech Republic	2
+851	United States	Sierra Leone	2
+852	Turkey	Brazil	2
+853	Niger	Cameroon	2
+854	Senegal	Mexico	2
+855	Guatemala	Cuba	2
+856	Italy	India	2
+857	New Zealand	Turkey	2
+858	South Africa	Jamaica	2
+859	Angola	Venezuela, Bolivarian Republic of	2
+860	Sweden	India	2
+861	Grenada	Cuba	2
+862	Turkey	Belgium	2
+863	Guadeloupe	French Guiana	2
+864	France	Chile	2
+865	South Africa	Venezuela, Bolivarian Republic of	2
+866	Libyan Arab Jamahiriya	North Korea	2
+867	Cuba	Ukraine	2
+868	Bolivia	United Kingdom	2
+869	Netherlands	United Kingdom	2
+870	Iceland	India	2
+871	Norway	Ukraine	2
+872	Bahamas	Brazil	2
+873	Slovenia	Malta	2
+874	Dominica	Kenya	2
+875	Tanzania, United Republic of	Dominica	2
+876	Malaysia	Israel	2
+877	France	Sierra Leone	2
+878	Italy	Brazil	2
+879	New Zealand	Mexico	2
+880	Romania	Turkey	2
+881	United Kingdom	Iraq	2
+882	Bahamas	France	2
+883	Malaysia	Japan	2
+884	Slovakia	Macedonia	2
+885	India	Finland	2
+886	Guadeloupe	Spain	2
+887	Dominica	Japan	2
+888	Portugal	Netherlands	2
+889	Ecuador	Canada	2
+890	Tanzania, United Republic of	Jamaica	2
+891	Indonesia	Congo	2
+892	Croatia	Cyprus	2
+893	United States	Estonia	2
+894	Croatia	Georgia	2
+895	United States	Martinique	2
+896	Peru	Brunei Darussalam	2
+897	Ukraine	Iraq	2
+898	Tanzania, United Republic of	Kenya	2
+899	United States	Lebanon	2
+900	Poland	Denmark	2
+901	Albania	France	2
+902	Yemen	Mongolia	2
+903	Egypt	Sudan	2
+904	Japan	Brunei Darussalam	2
+905	Afghanistan	Bosnia and Herzegovina	2
+906	Algeria	Dominica	2
+907	France	Bulgaria	2
+908	Peru	Israel	2
+909	Cuba	Georgia	2
+910	Portugal	Gibraltar	2
+911	Poland	Malta	2
+912	Egypt	Mozambique	2
+913	Gibraltar	Spain	2
+914	Albania	Czech Republic	2
+915	Guatemala	Portugal	2
+916	Albania	Italy	2
+917	Switzerland	India	2
+918	Ghana	Guyana	2
+919	South Korea	Japan	2
+920	Mexico	Israel	2
+921	Russia	Switzerland	2
+922	Romania	Latvia	2
+923	Russia	Mozambique	2
+924	Ecuador	Cuba	2
+925	Russia	Croatia	2
+926	France	New Zealand	2
+927	Italy	Serbia	2
+928	Ethiopia	India	2
+929	Madagascar	Somalia	2
+930	Yemen	Mozambique	2
+931	Mozambique	Angola	2
+932	Ecuador	Spain	2
+933	Oman	Yemen	2
+934	Colombia	Argentina	2
+935	Malta	Cyprus	2
+936	Colombia	Singapore	2
+937	Afghanistan	North Korea	2
+938	Dominican Republic	Nigeria	2
+939	Haiti	Chile	2
+940	Hungary	Ireland	2
+941	Namibia	Mozambique	2
+942	Australia	Peru	2
+943	United States	Bolivia	2
+944	United Kingdom	Switzerland	2
+945	Cameroon	United Kingdom	2
+946	Ethiopia	Somalia	2
+947	Germany	Finland	2
+948	Philippines	Puerto Rico	2
+949	Croatia	France	2
+950	Israel	Singapore	2
+951	Bermuda	France	2
+952	Estonia	Malta	2
+953	Russia	Estonia	2
+954	Yemen	Madagascar	2
+955	Colombia	Greece	2
+956	Philippines	Germany	2
+957	Estonia	Romania	2
+958	Dominica	Jamaica	2
+959	Jamaica	Guyana	2
+960	Slovakia	Turkey	2
+961	Russia	New Zealand	2
+962	Czech Republic	Turkey	2
+963	Cameroon	Sierra Leone	2
+964	China	Yemen	2
+965	Macedonia	Lithuania	2
+966	Madagascar	Sudan	2
+967	Algeria	New Zealand	2
+968	Namibia	Venezuela, Bolivarian Republic of	2
+969	Afghanistan	Israel	2
+970	Haiti	Mexico	2
+971	South Africa	Netherlands	2
+972	Romania	Lithuania	2
+973	Guinea	Spain	2
+974	Peru	Brazil	2
+975	Israel	Ethiopia	2
+976	Chile	South Korea	2
+977	Russia	Montenegro	2
+978	Malaysia	Peru	2
+979	Afghanistan	India	2
+980	France	Ukraine	2
+981	Sudan	Iraq	2
+982	Croatia	Lithuania	2
+983	Poland	Latvia	2
+984	Macedonia	Latvia	2
+985	Oman	Mozambique	2
+986	Albania	Ukraine	2
+987	France	Dominican Republic	2
+988	Hong Kong	India	2
+989	Slovakia	Estonia	2
+990	Argentina	Belgium	2
+991	Ecuador	Mexico	2
+992	Tunisia	Iran	2
+993	Haiti	Martinique	2
+994	France	Georgia	2
+995	Portugal	Mexico	2
+996	Australia	Brazil	2
+997	Albania	United Kingdom	2
+998	United States	Libyan Arab Jamahiriya	2
+999	Haiti	Kenya	2
+1000	Ukraine	Finland	2
+1001	Poland	Romania	2
+1002	France	North Korea	2
+1003	Brazil	Nigeria	2
+1004	New Zealand	Dominican Republic	2
+1005	Colombia	South Korea	2
+1006	Bolivia	Brazil	2
+1007	Poland	Montenegro	2
+1008	Guatemala	United States	2
+1009	Congo	India	2
+1010	Mozambique	Comoros	2
+1011	Hungary	Lithuania	2
+1012	New Zealand	Israel	2
+1013	Mexico	South Africa	2
+1014	Slovenia	Cyprus	2
+1015	Tanzania, United Republic of	France	2
+1016	France	Nigeria	2
+1017	Afghanistan	Serbia	2
+1018	Czech Republic	Germany	2
+1019	Hungary	Malta	2
+1020	Malta	Lithuania	2
+1021	Bulgaria	Latvia	2
+1022	Turkey	Latvia	2
+1023	Sudan	India	2
+1024	Madagascar	Comoros	2
+1025	Ghana	Dominica	2
+1026	France	Peru	2
+1027	United States	Denmark	2
+1028	Haiti	Bolivia	2
+1029	Romania	Macedonia	2
+1030	Panama	Canada	2
+1031	South Africa	Switzerland	2
+1032	Estonia	Turkey	2
+1033	Bahamas	Italy	2
+1034	Austria	France	2
+1035	Afghanistan	Italy	2
+1036	Spain	Canada	2
+1037	Oman	Egypt	2
+1038	Israel	Panama	2
+1039	Ghana	Tanzania, United Republic of	2
+1040	Turkey	Israel	2
+1041	Poland	China	2
+1042	Chile	Israel	2
+1043	Mexico	South Korea	2
+1044	Philippines	Mozambique	2
+1045	Yemen	Ethiopia	2
+1046	Hungary	Romania	2
+1047	China	Puerto Rico	2
+1048	Australia	South Korea	2
+1049	Guatemala	Haiti	2
+1050	Australia	Brunei Darussalam	2
+1051	Albania	Greece	2
+1052	Malaysia	Panama	2
+1053	Slovenia	Hungary	2
+1054	Macedonia	Georgia	2
+1055	India	Comoros	2
+1056	Bermuda	Barbados	2
+1057	Oman	Comoros	2
+1058	Slovakia	Croatia	2
+1059	Slovenia	Bulgaria	2
+1060	Benin	Togo	2
+1061	Pakistan	Iraq	2
+1062	Israel	Japan	2
+1063	United States	Montenegro	2
+1064	Croatia	Ukraine	2
+1065	France	Cyprus	2
+1066	Oman	Madagascar	2
+1067	Bolivia	Chile	2
+1068	Spain	Morocco	2
+1069	Albania	Croatia	2
+1070	Tanzania, United Republic of	Cameroon	2
+1071	United States	Luxembourg	2
+1072	China	Afghanistan	2
